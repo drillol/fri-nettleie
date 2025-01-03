@@ -9,10 +9,10 @@ netteier: 'Midtnett AS'
 sist_oppdatert: '2024-12-27'
 tariffer:
   - energiledd:
-      grunnpris: 26
+      grunnpris: 25.51
       unntak:
         - navn: Høylast
-          pris: 31
+          pris: 30.51
           timer: 6-21
     fastledd:
       metode: TRE_DØGNMAX_MND
@@ -65,10 +65,10 @@ tariffer:
         - terskel: 100
           pris: 36000
     energiledd:
-      grunnpris: 32.65
+      grunnpris: 26.002
       unntak:
         - navn: Høylast
           timer: 6-21
-          pris: 37.65
+          pris: 31.002
           dager: [alle]
     gyldig_fra: '2025-01-01'
